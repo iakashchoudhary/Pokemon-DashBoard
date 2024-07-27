@@ -8,6 +8,7 @@ Welcome to the Pokémon Dashboard repository! This project is designed to provid
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Data Sources](#data-sources)
+   - [Connecting Power BI to Datasets](#connecting-power-bi-to-datasets)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -32,7 +33,7 @@ To get started with the Pokémon Dashboard, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/pokemon-dashboard.git
+   git clone https://github.com/iakashchoudhary/Pokemon-DashBoard.git
 
 2. **Open Power BI**
 
@@ -45,6 +46,23 @@ To get started with the Pokémon Dashboard, follow these steps:
 ## Data Sources
 
 The dashboard utilizes data from Pokémon API and other relevant Pokémon datasets.
+
+### Connecting Power BI to Datasets
+
+1. **PokeDex ID**
+   - **URL:** [PokeDex ID Dataset](https://raw.githubusercontent.com/DetainedDeveloper/Pokedex/master/pokedex_raw/pokedex_raw_array.json)
+   - **Format:** JSON
+   - **Description:** This dataset contains PokeDex information in JSON format.
+
+2. **Pokemon Description**
+   - **URL:** [Pokemon Description Dataset](https://raw.githubusercontent.com/ArielLomoctos/The-Pokemon-Dataset/main/The_Pokemon_Dataset.csv)
+   - **Format:** CSV
+   - **Description:** This dataset includes descriptions of Pokémon.
+
+3. **Pokemon Attributes and Others**
+   - **URL:** [Pokemon Attributes and Others Dataset](https://raw.githubusercontent.com/ArielLomoctos/The-Pokemon-Dataset/main/The_Pokemon_Attributes_Dataset.csv)
+   - **Format:** CSV
+   - **Description:** This dataset contains attributes and other information about Pokémon.
 
 ## Prerequisites
 
