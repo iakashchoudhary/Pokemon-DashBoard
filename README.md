@@ -17,7 +17,7 @@ Welcome to the Pokémon Dashboard repository! This project is designed to provid
 
 ## Overview
 
-The Pokémon Dashboard offers a comprehensive view of various Pokémon statistics, including but not limited to, Pokémon types, abilities, and other key metrics. This dashboard helps users to explore and analyze Pokémon data in a visually appealing and intuitive manner.
+The Pokémon Dashboard offers a comprehensive view of various Pokémon statistics, including but not limited to, Pokémon types, abilities, and other key metrics. This dashboard helps users to explore and analyze Pokémon data in a visually appealing and intuitiv manner.
 
 ## Features
 
